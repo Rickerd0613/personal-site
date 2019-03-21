@@ -91,7 +91,7 @@ module.exports = [
       title: 'Chekt + Bullets',
       summary: (
         <React.Fragment>
-          As a college student looking for how to make people’s lives easier, I naturally looked to how I organize my schoolwork. Using an iPad note taking app and my phone’s task manager for years, I realized two things: <b>neither</b> were very capable, and they could both work better if they were connected to the same system. That’s where Chekt and Bullets come in, sharing your collections of notes and tasks in one place to help you see everything you need to get done, and all the tools you need to do it. You can <a href="https://medium.com/p/924a45e1a588/edit">read my quaint proposal</a> for more information.
+          As a college student looking for how to make people’s lives easier, I naturally looked to how I organize my schoolwork. Using an iPad note taking app and my phone’s task manager for years, I realized two things: <b>neither</b> were very capable, and they could both work better if they were connected to the same system. That’s where Chekt and Bullets come in, sharing your collections of notes and tasks in one place to help you see everything you need to get done, and all the tools you need to do it. You can <a href="https://medium.com/p/924a45e1a588">read my quaint proposal</a> for more information.
         </React.Fragment>
       ),
       colors: {
